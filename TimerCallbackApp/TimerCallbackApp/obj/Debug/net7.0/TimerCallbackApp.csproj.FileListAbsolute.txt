@@ -1,0 +1,14 @@
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\bin\Debug\net7.0\TimerCallbackApp.exe
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\bin\Debug\net7.0\TimerCallbackApp.deps.json
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\bin\Debug\net7.0\TimerCallbackApp.runtimeconfig.json
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\bin\Debug\net7.0\TimerCallbackApp.dll
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\bin\Debug\net7.0\TimerCallbackApp.pdb
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\TimerCallbackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\TimerCallbackApp.AssemblyInfoInputs.cache
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\TimerCallbackApp.AssemblyInfo.cs
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\TimerCallbackApp.csproj.CoreCompileInputs.cache
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\TimerCallbackApp.dll
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\refint\TimerCallbackApp.dll
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\TimerCallbackApp.pdb
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\TimerCallbackApp.genruntimeconfig.cache
+C:\Lionlins\CSharp\TimerCallbackApp\TimerCallbackApp\obj\Debug\net7.0\ref\TimerCallbackApp.dll
